@@ -1,0 +1,5 @@
+name: UpdateServicePlugin
+author: plocki
+version: 1.0-SNAPSHOT
+main: me.refluxo.updateservice.bungee.UpdateServicePluginBungee
+description: Pluginloader

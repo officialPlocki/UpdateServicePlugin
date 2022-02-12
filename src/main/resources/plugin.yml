@@ -1,0 +1,9 @@
+name: UpdateServicePlugin
+author: plocki
+description: Pluginloader
+main: me.refluxo.updateservice.spigot.UpdateServicePluginSpigot
+version: 1.0-SNAPSHOT
+api-version: 1.13
+load: STARTUP
+website: https://refluxo.software
+prefix: LOADER
